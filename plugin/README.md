@@ -13,7 +13,7 @@ kintoneプラグインのビルド済みファイルを公開しています。
 タイトルリンカー
 ----------
 一覧画面で任意の列に、詳細画面へのリンクを設定することができます。  
-[ダウンロード | ver.1](plugin/kintone-plugin-titlelinker-v1.zip)  
+[ダウンロード | ver.1](kintone-plugin-titlelinker-v1.zip)  
   
 ■設定画面
 ![設定画面](images/kintone-plugin-titlelinker-setting.png "設定画面")
@@ -25,7 +25,7 @@ kintoneプラグインのビルド済みファイルを公開しています。
 ----------
 必須マークを見やすく／わかりやすく！  
 フォントサイズや文字列そのものを自由にカスタマイズすることができます。  
-[ダウンロード | ver.1](plugin/kintone-plugin-requiremaker-v1.zip)  
+[ダウンロード | ver.1](kintone-plugin-requiremaker-v1.zip)  
   
 ■設定画面
 ![設定画面](images/kintone-plugin-requiremaker-setting.png "設定画面")
@@ -37,7 +37,7 @@ kintoneプラグインのビルド済みファイルを公開しています。
 ----------
 指定された文字列（複数行）／リッチエディターフィールドをMarkdown変換します。  
 変換したフィールドにはclass「md」を付与するため、スタイル指定する際にはこのクラスを参照することもできます。  
-[ダウンロード | ver.2](plugin/kintone-plugin-markdown-v2.zip)  
+[ダウンロード | ver.2](kintone-plugin-markdown-v2.zip)  
   
 ■設定画面
 ![設定画面](images/kintone-plugin-markdown-setting.png "設定画面")
