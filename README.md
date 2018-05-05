@@ -24,4 +24,4 @@ kintoneプラグインのビルド済みファイルを公開しています。
 ■設定画面
 ![設定画面](images/kintone-plugin-requiremaker-setting.png "設定画面")
 ■編集画面
-![編集画面](images/kintone-plugin-titlelinker-edit.png "編集画面")
+![編集画面](images/kintone-plugin-requiremaker-edit.png "編集画面")
