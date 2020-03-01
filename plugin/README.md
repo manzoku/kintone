@@ -37,7 +37,7 @@ kintoneプラグインのビルド済みファイルを公開しています。
 ----------
 指定された文字列（複数行）／リッチエディターフィールドをMarkdown変換します。  
 変換したフィールドにはclass「md」を付与するため、スタイル指定する際にはこのクラスを参照することもできます。  
-[ダウンロード | ver.2](kintone-plugin-markdown-v2.zip)  
+[ダウンロード | ver.3](kintone-plugin-markdown-v3.zip)  
   
 ■設定画面
 ![設定画面](images/kintone-plugin-markdown-setting.png "設定画面")
